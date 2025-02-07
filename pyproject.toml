@@ -19,7 +19,7 @@ classifiers = [
 keywords = []
 dependencies = [
     "boto3 ==1.36.4",
-    "inject-environment-variables >= 1.0.0",
+    "inject-environment-variables >= 1.1.0",
     "simple-term-menu ==1.6.6"
 
 ]
